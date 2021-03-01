@@ -1,0 +1,19 @@
+{
+    "NomSamples": ["FTAG2_ttbar_PhPy8_nominal",
+                    "FTAG2_Singletop_PowPy8",
+                    "FTAG2_Zjets_Sherpa221",
+                    "FTAG2_Diboson_Sherpa222",
+                    "FTAG2_Wjets_Sherpa221"],
+    "SystSamples": ["FTAG2_ttbar_PhPy8_AF2",
+                    "FTAG2_ttbar_PhPy8_hdamp3mtop",
+                    "FTAG2_ttbar_PowHW7",
+                    "FTAG2_ttbar_aMcPy8",
+                    "FTAG2_Singletop_PowPy8_AF2",
+                    "FTAG2_Singletop_PowPy8_DS_AF2",
+                    "FTAG2_Singletop_aMcPy8",
+                    "FTAG2_Singletop_PowHW7",
+                    "FTAG2_Zjets_MGPy8",
+                    "FTAG2_Zjets_PowPy8",
+                    "FTAG2_Diboson_PowPy8"],
+    "DataSamples": ["data15161718"]
+}
