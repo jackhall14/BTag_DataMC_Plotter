@@ -1,0 +1,18 @@
+{
+    "Jets": {
+        "Objs":["jet1", "jet2"],
+        "Vars": ["pt","eta","phi", "m_jl", "DL1", "DL1r"]
+    },
+    "Leptons_el":{
+        "Objs":["el1"],
+        "Vars": ["pt1", "eta1", "phi1", "cl_eta1"]
+    },
+    "Leptons_mu":{
+        "Objs":["mu1"],
+        "Vars": ["pt1", "eta1", "phi1"]
+    },
+    "Events": {
+        "Objs":["nPV", "mu", "mu_shifted", "met"],
+        "Vars":[""]
+    }
+}
